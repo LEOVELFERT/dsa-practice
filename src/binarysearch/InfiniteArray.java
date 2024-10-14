@@ -6,6 +6,7 @@ public class InfiniteArray {
         int target = 8;
         int ans=findAns(nums,target);
         System.out.println("the out put for the infinite array : "+ans);
+
     }
 
     public static int findAns(int[] nums,int target){
