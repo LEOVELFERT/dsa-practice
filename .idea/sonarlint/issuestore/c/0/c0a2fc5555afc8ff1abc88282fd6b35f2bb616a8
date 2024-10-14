@@ -1,0 +1,5 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñªÎÿÿÿÿÿ8÷ù´Ù¡2J$2cdac5aa-e470-4c80-baa9-1c21e06f153e
+‡
+java:S1854"?Remove this useless assignment to local variable "targetArray".(Ş×ò¸şÿÿÿÿ8ˆú´Ù¡2J$a5ba42ac-5eff-4df4-9338-cfac7e3cf2d1
+l	java:S106"+Replace this use of System.out by a logger.(ˆ³¨8ˆú´Ù¡2J$8ed3e8bf-3ea3-4299-a273-41c6fe0df588

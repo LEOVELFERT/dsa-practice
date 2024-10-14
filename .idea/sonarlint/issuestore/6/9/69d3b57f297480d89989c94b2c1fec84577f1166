@@ -1,0 +1,15 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚâĞûÿÿÿÿ8­Ü’õ¡2J$5d6ff4ac-c5ab-4209-b2d4-cf37d3b76ad9
+}
+java:S11443"5Remove this unused private "reverseTheString" method.( ¡øÿÿÿÿ8²Ü’õ¡2J$a8e8e801-59ba-4230-b9ec-6c0e6cc63560
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8²Ü’õ¡2J$865b1be7-2d22-446f-a347-357323ad40a3
+~	java:S125
+"<This block of commented-out lines of code should be removed.(œ¨•Ú8´Ü’õ¡2J$62030eec-3a08-4f0b-b872-7e61affbbc93
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ú¹“Òşÿÿÿÿ8µÜ’õ¡2J$15d8597c-336d-432b-be79-3bf1d02ff5bb
+l	java:S106""+Replace this use of System.out by a logger.(ı±ñ68µÜ’õ¡2J$da146e6d-e664-46ad-8369-b7995117022a
+r	java:S106$"+Replace this use of System.out by a logger.(Ñ”¦ßøÿÿÿÿ8¶Ü’õ¡2J$f809bb1b-3037-467f-9eac-6dee7b489084
+v
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ºÜ’õ¡2J$31d4567c-b855-4f16-90d5-5080ed6ed702
+y
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ºÜ’õ¡2J$1e5f2ab2-d188-480e-a614-8d49673a22f4

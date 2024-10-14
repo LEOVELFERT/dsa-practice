@@ -1,0 +1,8 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(’ò­€8¡åÂè§2
+G	java:S106"+Replace this use of System.out by a logger.(’ò­€8£åÂè§2
+]	java:S125"<This block of commented-out lines of code should be removed.(ø‰¦Îøÿÿÿÿ8¦åÂè§2
+I
+java:S1602 ",Remove useless curly braces around statement(ğ®í–8§åÂè§2
+L	java:S106!"+Replace this use of System.out by a logger.(“Â¢ªûÿÿÿÿ8¨åÂè§2
+F	java:S106,"+Replace this use of System.out by a logger.(¡Šò8ªåÂè§2

@@ -1,0 +1,9 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(½›Ò8Òíô±¡2J$3fee509f-b83d-401a-9e83-8d42f9a3dc95
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8ç»õ±¡2J$09be2528-ddca-4133-a5bd-5d9ee12589d8
+t
+java:S1172",Remove this unused method parameter "value".(‚ûÅöûÿÿÿÿ8´Ñú±¡2J$d6135f98-2aa2-4598-ad63-95b63ac6660c
+m	java:S106"+Replace this use of System.out by a logger.(Ø§ÁÛ8¼·ù±¡2J$5c3b1ab2-0e01-43fb-b0f3-f12fdc6f515c
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8¼·ù±¡2J$d74ffc69-7318-4926-8539-b73334c58176
