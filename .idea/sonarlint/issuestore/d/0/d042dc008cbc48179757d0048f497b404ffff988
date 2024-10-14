@@ -1,8 +1,0 @@
-
-	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ã­½æ§2J$63296eef-adc5-4c16-9fa1-5bbe0f61ed81
-¡
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Í­½æ§2J$1ce1dc27-26b4-42f5-b360-a0c2bce63957
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ì»§æ§2J$f2ca0480-4fe0-4a01-bb58-42aad0d9ee7a
-¡
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ö´æ§2J$7f081f18-737e-49f7-8b3f-c1ac4dba431c
-r	java:S106"+Replace this use of System.out by a logger.(¨ã£Åıÿÿÿÿ8Ó‹¸æ§2J$f03adf51-f3c1-4c33-9057-6f0e7aac78d3

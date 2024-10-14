@@ -1,18 +1,0 @@
-
-œ
-java:S1845"TRename field "tempLong" to prevent any misunderstanding/clash with field "templong".(×¾¥øÿÿÿÿ8½×Åù 2J$15aa05de-6e68-4684-a6d1-cb33e26be19c
-›
-java:S1845
-"XRename field "tempDouble" to prevent any misunderstanding/clash with field "tempdouble".(”õ°û8áõÈù 2J$79393fb0-77be-4ae0-9033-805bc483623a
-¢
-java:S1845"ZRename field "tempBoolean" to prevent any misunderstanding/clash with field "tempboolean".(·Ãşüÿÿÿÿ8¾×Åù 2J$6a3e938e-7bdb-43a4-bea4-62405b7b0155
-r	java:S106"+Replace this use of System.out by a logger.(Ñª¼øùÿÿÿÿ8É×Åù 2J$09b8ec38-92c5-4348-b8c9-ac8708c7eecb
-r	java:S106"+Replace this use of System.out by a logger.(ë›ıŸùÿÿÿÿ8Ë×Åù 2J$914f096f-e8ac-45f1-9354-64add4c598ce
-r	java:S106"+Replace this use of System.out by a logger.(ÛÙñ¥şÿÿÿÿ8Í×Åù 2J$b0aca9f1-a06b-4191-9d21-b78fc1b106b5
-m	java:S106"+Replace this use of System.out by a logger.(è©Ú8Î×Åù 2J$12806cbd-8120-4085-899c-9b1004ae9ab0
-m	java:S106"+Replace this use of System.out by a logger.(¼ê—8Ğ×Åù 2J$62d3cc61-ff02-4ac3-91fa-8e614793625c
-m	java:S106"+Replace this use of System.out by a logger.(æœîŞ8Ñ×Åù 2J$b89c1429-f243-4d75-8e3b-6baa079ea6ee
-r	java:S106"+Replace this use of System.out by a logger.(ÂŸ›¦úÿÿÿÿ8Ò×Åù 2J$34331723-a8e8-4beb-9ecf-3ded1f9b5c11
-m	java:S106"+Replace this use of System.out by a logger.(ÛšØŠ8Ó×Åù 2J$fe18bd3b-2169-4a58-b6cc-b5c514a8ab47
-r	java:S106"+Replace this use of System.out by a logger.(•À³Õıÿÿÿÿ8åÉù 2J$635ba4ab-76ae-44dc-9813-a1cd0061f14d
-m	java:S106"+Replace this use of System.out by a logger.(Îî»8ŸåÉù 2J$ef3502e5-78e4-4576-80c7-88442aa7f2c8

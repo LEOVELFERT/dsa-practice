@@ -1,0 +1,64 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+target/
+bin/
+
+# Maven/Gradle specific files
+.mvn/
+.gradle/
+build/
+
+# Logs
+*.log
+logs/
+
+# Compiled class files
+*.class
+
+# Generated files
+*.jar
+*.war
+*.ear
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Eclipse specific files (if relevant)
+.project
+.classpath
+.settings/
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tar.bz2
+
+# Ignore node_modules (if applicable)
+node_modules/
+
+# VS Code specific files (if you ever use it)
+.vscode/
+
+# Java IDE specific files
+*.factorypath
+
+# Other
+*.log
+*.xml
+*.ser
+*.pyc
+*.csv

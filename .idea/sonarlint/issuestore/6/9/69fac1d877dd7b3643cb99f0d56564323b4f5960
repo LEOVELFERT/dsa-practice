@@ -1,9 +1,0 @@
-
-l
-java:S2140")Use "java.util.Random.nextInt()" instead.(åš¯Š8´ÄÞê§2J$c0f6207b-1472-43fd-80d3-0239a8a2e60a
-r	java:S106"+Replace this use of System.out by a logger.(ýÞª‰øÿÿÿÿ8µÄÞê§2J$86abe847-d2fe-4fb0-bc15-5f49d9547024
-x
-java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8²ÆÞê§2J$fbdb2476-a8c4-41a5-a279-cc958c5ac69f
-m	java:S106"+Replace this use of System.out by a logger.(ÝÿÄÓ8½ÆÞê§2J$628517f0-632b-41c2-8c16-e740c626a252
-x
-java:S2446 "0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8½ÆÞê§2J$00b050b1-a684-46ef-806c-800ba21d1a7d
