@@ -36,7 +36,7 @@ public class RBS {
 
         // If pivot is -1, the array is not rotated, perform normal binary search
         if (pivot == -1) {
-           return binarySearch(nums, target, start, end)
+           return binarySearch(nums, target, start, end);
         } else {
             // If target is found at the pivot
             if (nums[pivot] == target) {
