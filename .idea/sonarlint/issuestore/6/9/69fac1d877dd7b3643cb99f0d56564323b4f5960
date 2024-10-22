@@ -1,0 +1,9 @@
+
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(åš¯Š
+E	java:S106"+Replace this use of System.out by a logger.(ıŞª‰øÿÿÿÿ
+K
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(İÿÄÓ
+K
+java:S2446 "0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ

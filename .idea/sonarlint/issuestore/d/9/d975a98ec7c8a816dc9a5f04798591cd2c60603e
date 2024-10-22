@@ -1,0 +1,9 @@
+
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(˜ïˆžÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(®§×Ÿüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(®å­ûÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÈšØøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÈšØøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(òÖúïùÿÿÿÿ

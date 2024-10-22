@@ -1,0 +1,12 @@
+
+M
+java:S6881
+"2Use virtual threads for heavy blocking operations.(»ãßºøÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+@	java:S106"+Replace this use of System.out by a logger.(öğ‰
+H
+java:S6881"2Use virtual threads for heavy blocking operations.(ïÈ˜‚
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+@	java:S106"+Replace this use of System.out by a logger.(öğ‰

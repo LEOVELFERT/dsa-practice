@@ -1,0 +1,10 @@
+
+l
+java:S2095"VUse try-with-resources or close this "ScheduledExecutorService" in a "finally" clause.(­‘Â“
+@	java:S106"+Replace this use of System.out by a logger.(’ò­€
+@	java:S106"+Replace this use of System.out by a logger.(’ò­€
+V	java:S125"<This block of commented-out lines of code should be removed.(ø‰¦Îøÿÿÿÿ
+B
+java:S1602 ",Remove useless curly braces around statement(ð®í–
+E	java:S106!"+Replace this use of System.out by a logger.(“Â¢ªûÿÿÿÿ
+?	java:S106,"+Replace this use of System.out by a logger.(¡Šò
