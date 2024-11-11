@@ -1,6 +1,7 @@
 package recursive;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class LinearSearch {
@@ -17,6 +18,7 @@ public class LinearSearch {
 
         outPutList=findTargetListV2(array,0,target,array.length);
         System.out.println("the output list is ----------> "+outPutList);
+        Arrays.sort(array);
     }
 
 
