@@ -3,9 +3,9 @@ package string;
 public class StringBasics {
     public static void main(String[] args) {
         //index of demo
-//        String inputString="loop";
-//        System.out.println("the first index of the given stirng "+inputString.indexOf("o"));
-//        System.out.println("the last index iof the given stirng "+inputString.lastIndexOf("o"));
+        String inputString="loop";
+        System.out.println("the first index of the given stirng "+inputString.indexOf("o"));
+        System.out.println("the last index iof the given stirng "+inputString.lastIndexOf("o"));
 
         //remove white spaces
 //        String stingWithSpace="loop hole";
@@ -38,12 +38,12 @@ public class StringBasics {
 //        System.out.println("after converted the string"+arrayConvertedString);
 
         //check the string starts with particular word and ends with string
-        String inputString="gopi";
-        if(inputString.startsWith("g")){
-            System.out.println("the string starts with the g");
-        }
-        if(inputString.endsWith("i")){
-            System.out.println("the string ends with i");
-        }
+//        String inputString="gopi";
+//        if(inputString.startsWith("g")){
+//            System.out.println("the string starts with the g");
+//        }
+//        if(inputString.endsWith("i")){
+//            System.out.println("the string ends with i");
+//        }
     }
 }
