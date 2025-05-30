@@ -7,24 +7,22 @@ public class QuickSortDemo {
         int[] arr=new int[]{2,4,5,6,9,1};
         quickSort(arr,0,arr.length-1);
         System.out.println(Arrays.toString(arr));
-
     }
 
     public static void quickSort(int[] arr, int low, int high){
         if(low>=high){
             return;
         }
-
         int start=low;
         int end=high;
-        int mid = start + (end - start) / 2;
+        int mid=start+(end-start)/2;
         int pivot=arr[mid];
 
         while(start<=end){
             while(arr[start]<pivot){
                 start++;
             }
-            while(arr[end]>pivot){
+            while (arr[end]>pivot){
                 end--;
             }
             if(start<=end){
@@ -37,6 +35,5 @@ public class QuickSortDemo {
         }
         quickSort(arr,low,end);
         quickSort(arr,start,high);
-
     }
 }

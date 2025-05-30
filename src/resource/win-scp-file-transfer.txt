@@ -1,0 +1,36 @@
+https://winscp.net/eng/download.php
+
+✅ Prerequisites:
+   1)✅ .ppk private key file (already with you)
+
+   2)✅ WinSCP installed on your system
+   3)➤ Download: https://winscp.net/eng/download.php
+
+   4)✅ Your EC2 instance's public IP or DNS
+
+   5)✅ Default user (usually ec2-user, ubuntu, or admin depending on AMI)
+   
+🔄 Steps to Transfer a File Using WinSCP:
+1)Open WinSCP.
+
+2)File Protocol: Select SCP or SFTP (recommended).
+
+3)Host name: Enter your EC2 instance's public IP (e.g., ec2-3-111-222-33.compute-1.amazonaws.com).
+
+4)Port number: Use 22 (default SSH port).
+
+5)User name: Use one of the following depending on your AMI:
+
+    Amazon Linux/RedHat: ec2-user
+
+    Ubuntu: ubuntu
+
+    Debian: admin
+
+6)Private key file:
+
+7)Click Advanced > Authentication > Private key file
+
+    Select your .ppk file.
+
+    Click OK, then Login.
