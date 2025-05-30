@@ -1,0 +1,19 @@
+Download putty from this link
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+C:\Program Files\PuTTY\
+
+Steps to Connect EC2 via PuTTY using .ppk file
+===============================================
+1)Open PuTTY.
+2)In the "Host Name (or IP address)" field:
+
+    Enter your EC2 Public DNS or Public IP
+    (e.g., ec2-3-110-XX-XX.compute-1.amazonaws.com or 13.234.XX.XX)
+3)On the left panel, go to:
+
+    Connection → SSH → Auth
+4)Click "Browse" and select your .ppk file.
+5)Go back to the "Session" category on the top of the left panel:
+    You can enter a name in "Saved Sessions" and click Save if you want to reuse it later.
+6)Click Open.
