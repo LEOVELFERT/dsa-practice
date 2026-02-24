@@ -9,6 +9,7 @@ public class Fibo {
         if(n<2){
             return n;
         }
+        //this entire thing is called as the tail recursion.
         return fibo(n-1)+fibo(n-2);
     }
 }
