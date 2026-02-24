@@ -6,6 +6,8 @@ public class BinarySearch {
         int target=56;
         int element=binarySearch(arr,target);
         System.out.println("the binary Search element : "+element);
+        String s="leovelbert";
+        System.out.println("the lentht of the string is "+s.length());
     }
 
     //return -1 if element is not there
