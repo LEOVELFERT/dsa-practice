@@ -1,6 +1,6 @@
 package maths;
 //it will be applicable if only one unique number is availble.
-public class uniqueNumber {
+public class UniqueNumber {
     public static void main(String[] args) {
         int arr[]={2,1,2,1,3};
         System.out.println("The unique number :"+findUnique(arr));
