@@ -12,7 +12,7 @@ public class ProductArray {
 
         for(int i=0;i<length;i++){
             finaNewArray[i]=product;
-            product = product * finaNewArray[i];
+            product = product * nums[i];
         }
 
         product=1;
