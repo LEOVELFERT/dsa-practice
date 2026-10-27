@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class twoSum {
+public class TwoSum {
 
     static int[] getTwoSum(int array[],int target){
         Map<Integer,Integer> map=new HashMap<>();
